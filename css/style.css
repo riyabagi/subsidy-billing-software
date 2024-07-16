@@ -1,0 +1,40 @@
+.body1 {
+    width: 100%;
+    background: white;
+    position: relative;
+    display: flex;
+    height: 115vh;
+}
+
+.name {
+    width: 100%;
+    height: 37px;
+    border-radius: 8px;
+    border: 2px solid #318EC8;
+    margin-bottom: 20px;
+}
+
+.info-box {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.buttons {
+    width: 110px;
+    height: 40px;
+    background-color: #318EC8;
+    color: white;
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+.underline {
+    border: none;
+    border-bottom: 1px solid #318EC8;
+    background-color: transparent;
+    outline: none;
+    width: 100%;
+}
